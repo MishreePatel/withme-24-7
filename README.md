@@ -6,6 +6,10 @@ WithMe 24/7 is a mobile safety app built on a simple idea: safety apps shouldn't
 
 📺 **[Watch the demo video](https://youtu.be/HCI0wqdgAe0)**
 
+ ## 🔗 Connect
+
+   - 💼 LinkedIn: [Post about this series](https://lnkd.in/p/gj8CeNRc)
+
 ---
 
 ## The Problem
