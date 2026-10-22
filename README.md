@@ -62,10 +62,15 @@ WithMe 24/7 is the first of the four to treat the moment **after** a safety inci
 
 🚧 Early development — follow along for updates.
 
-## License
+## Sprint 1: Proposal and Initial Build
 
-TBD
+WithMe 24/7 is a personal safety app with incident-triggered wellbeing aftercare: automatic detection, multi-channel SOS, and post-incident check-ins.
 
----
+**Sprint 1 delivered:** a login screen, welcome screen, database connections, an About Us screen, and a Welcome Back splash screen that stays on for 10 seconds before the About Us page.
+**Tech stack:** React Native (Expo), TypeScript, Firebase, TensorFlow Lite, Android Studio
 
-*Built by [Your Name].*
+**Links**
+- 📺 Sprint 1 video: https://youtu.be/0XEYzFIfla0
+- 💼 LinkedIn post: https://lnkd.in/p/g4tKWF6C
+
+Built by Mishree Patel
