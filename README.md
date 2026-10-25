@@ -73,4 +73,29 @@ WithMe 24/7 is a personal safety app with incident-triggered wellbeing aftercare
 - 📺 Sprint 1 video: https://youtu.be/0XEYzFIfla0
 - 💼 LinkedIn post: https://lnkd.in/p/g4tKWF6C
 
+## Sprint 2: Dashboard, Trusted Circle, and SOS Alert
+
+WithMe 24/7 is an AI-powered personal safety application with incident-triggered wellbeing aftercare.
+
+**Client feedback addressed (8 of 8)**
+
+| # | Feedback | Status |
+|---|---|---|
+| 1 | Replace rust color theme | Addressed: deep teal and soft gold |
+| 2 | Bigger icons; pages felt empty | Addressed |
+| 3 | Post-login landing becomes a Dashboard | Addressed |
+| 4 | About Us as an optional link on Welcome | Addressed |
+| 5 | Remove timed Welcome Back screen | Addressed |
+| 6 | Remember me with device passcode | Addressed |
+| 7 | Reset Password page | Addressed |
+| 8 | Same page names in app and diagrams | Addressed |
+
+**Testing:** 12 manual test cases on an iPhone (Expo Go) against a live Firebase project. All passed.
+
+**Links**
+- 📺 Sprint 2 video: https://youtu.be/0cblgx2zO4Q
+- 💼 LinkedIn post: https://lnkd.in/p/gu-6gn5Y
+
+**Next sprint:** Check-in and Wellbeing Journal feature
+
 Built by Mishree Patel
